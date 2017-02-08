@@ -1,0 +1,8 @@
+[[source]]
+url = 'https://github.com/yegorov/pydeclarative'
+
+[requires]
+python_version = '>3.5'
+
+[dev-packages]
+pytest = '*'
