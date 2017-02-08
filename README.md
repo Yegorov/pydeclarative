@@ -8,7 +8,7 @@ Declarative style in Python.
 ```
 git clone git@github.com:Yegorov/pydeclarative.git
 cd pydeclarative
-py 3.5 setup.py install
+py -3.5 setup.py install
 ```
 
 ## Use
