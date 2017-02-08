@@ -1,6 +1,8 @@
 PyDeclarative
 =============
 
+[![Build Status](https://travis-ci.org/Yegorov/pydeclarative.svg?branch=master)](https://travis-ci.org/Yegorov/pydeclarative)
+
 Declarative style in Python.
 
 ## Install
